@@ -28,4 +28,6 @@ An automated system that helps with code reviews by providing standardized templ
 ## Similar Projects
 
 These open-source projects use similar code review templates:
-- [To be added after code search]
+- [tgerke/r-code-review-checklist](https://github.com/tgerke/r-code-review-checklist) - A checklist template for R code review
+- [eosdac/EOS-Contract-Security-Audit](https://github.com/eosdac/EOS-Contract-Security-Audit) - Template for doing a peer reviewed security on EOS C++ contract code
+- [reenhanced/gitreflow](https://github.com/reenhanced/gitreflow) - Automates pull requests and code review workflows
